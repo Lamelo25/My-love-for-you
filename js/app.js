@@ -67,3 +67,4 @@ text.innerHTML = "I Knew it MaMa😘. HAHAHA I just kidding,I love you MAMA<3";
     vid.style.display = "none";
   }, 9000);
 });
+
