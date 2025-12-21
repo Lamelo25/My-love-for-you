@@ -59,7 +59,7 @@ no.addEventListener("click", () => {
 yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "resources/idc.gif";
-  text.innerHTML = "I knew it 😘 I love you <3";
+  text.innerHTML = "I knew it.HAHAHA I Justkidding. 😘 I love you <3";
 
   yes.innerHTML = `<a href="https://www.instagram.com/puree_910/" target="_blank">Message for me</a>`;
   yes.style.height = "90%";
@@ -70,3 +70,4 @@ yes.addEventListener("click", () => {
     vid.style.display = "none";
   }, 9000);
 });
+
